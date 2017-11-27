@@ -14,27 +14,6 @@ score depends on tetha and r values.<br />
 Tetha : defines the number played<br />
 r : defines the mulplicator<br />
 
-|             | inner bull | outer bull | x1  |	x3  |	x1  |	x2  |	x0  |
-| ---         | ---        | ---        | --- | --- | --- | --- | --- |
-| r_start     |	0          |	0.1       |	0.2 |	0.4 |	0.5 |	0.7 |	0.8 |
-| r_end	      | 0.1	       |0.2	        |0.4  |	0.5 |	0.7	|0.8	|1    |
-| score	      |50	         |25	        |number x 1	|number x 3	|number x 1	|number x 2	|NULL|
-<br />
-
-| label   |     |   |     |   |    |
-| ---     | --- | --- | --- | --- | --- |
-| number	| 20	| 1	| 18	| 4	| 13 |
-| theta_start|	81 |	63	| 45 |	27 |	9 | 
-| theta_end|	99 |	81	| 63 |	45	| 27 |
-| number	| 6	| 10 |	15	| 2	| 17 |
-| theta_start	| 9 |	333 |	315 |	297	| 279 |
-| theta_end	| 351 |	351	| 333 |	315 |	297 |
-| number	| 3	| 19	| 7	| 16	| 8 | 
-| theta_start	| 261	| 243	| 225	| 207	| 189 |
-| theta_end	| 279	| 261	| 243 |	225	| 207 |
-| number	| 11	| 14	| 9	| 12	| 5 |
-| theta_start	| 171	| 153 |	135 |	117 |	99 |
-| theta_end |	189 |	171	| 153 |	135 |	117 |
 
 | theta \  r  | 0.1 | 0.2 | 0.4 | 0.5 | 0.7 | 0.8 |
 | ---         | --- | --- | --- | --- | --- | --- |
